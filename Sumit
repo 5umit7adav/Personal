@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sumit Yadav</title>
+    <style>
+        body {
+            background-color: #FBFFEC;
+            font-family: 'Trebuchet MS', sans-serif;
+            line-height: 1.6;
+        }
+        a {
+            text-decoration: none;
+            color: #000080;
+        }
+        a:hover {
+            text-decoration: underline;
+            color: #F47A00;
+        }
+        img {
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            padding: 5px;
+            width: 180px;
+        }
+        table {
+            width: 100%;
+        }
+        .contact-info, .contact-info td {
+            color: #800000;
+            font-size: 1rem;
+        }
+        .contact-info strong {
+            display: block;
+            margin-bottom: 0.5rem;
+        }
+        .section-header {
+            color: #000080;
+            font-size: 1.2rem;
+            margin-top: 1rem;
+        }
+        .section-content {
+            margin-top: 0.5rem;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 1rem;
+            font-size: 0.8rem;
+            color: #000080;
+        }
+        .hit-counter {
+            text-align: right;
+            margin-top: 1rem;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <tr>
+            <td width="15%" valign="top">
+                <img src="images/sumit.jpg" alt="Sumit Yadav">
+            </td>
+            <td>
+                <table class="contact-info">
+                    <tr>
+                        <td colspan="2">
+                            <strong>Sumit Yadav</strong>
+                            <strong>Bachelor of Technology </strong>
+                            <strong><a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay </a></strong>
+                            <span>Powai , Mumbai - 400076, Maharastra , INDIA</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Phone:</td>
+                        <td>+91(542) 2368938</td>
+                    </tr>
+                    <tr>
+                        <td>Email:</td>
+    <td><a href="mailto:23b0609@iitb.ac.in">23B0609@iitb.ac.in</a></td>
+                    </tr>
+                </table>
+                <br>
+                <a href="<html><script src="chrome-extension://jfkjbfhcfaoldhgbnkekkoheganchiea/scripts/injected.js"></script><head><title>Dr. Sudhir K. Jain</title>
+
+<style type="text/css">
+A:link {text-decoration: none}
+A:visited {text-decoration: none}
+A:active {text-decoration: none}
+A:hover {text-decoration: underline; color: "#F47A00";}
+</style>
+
+<style>
+<!--
+.MsoHeader   { font-family: Trebuchet MS }
+-->
+</style>
+<script src="https://cdn.usefathom.com/script.js" data-site="TPVEGENZ" defer=""></script>
+</head>
+<body bgcolor="#FBFFEC">
+      
+<table cellspacing="0" cellpadding="0" border="0" width="100%" height="100%">
+  <tbody>
+  <tr>
+    <td>
+	<table border="0" width="100%" height="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td width="98%" valign="top">
+<a title="Go to Main Page" href="index-2.htm" tppabs="https://www.iitk.ac.in/nicee/skj/index.htm">
+<img border="0" src="homepage.JPG" tppabs="http://www.iitk.ac.in/nicee/skj/homepage.JPG" width="41" height="39" align="right"></a></td>
+		</tr>
+		<tr>
+			<td width="98%" class="MsoHeader" valign="top" align="justify">
+<table height="544" cellspacing="0" cellpadding="0" width="979" border="0" id="table1">
+<tbody>
+<tr>
+<td align="middle" width="979" height="29">
+<h2 align="left" style="margin-top: 0; margin-bottom: 0">
+<font face="Trebuchet MS" color="#800000">Education</font></h2>
+</td>
+</tr>
+<tr>
+<td align="middle" width="979" height="20">
+<h3 align="left" style="margin-top: 0; margin-bottom: 0">
+&nbsp;</h3>
+	</td>
+    </tr>
+<tr>
+<td width="979" height="448" valign="top">
+	<ul>
+		<li>
+		<p class="MsoHeader" style="text-indent: -.25in; margin-left: 17.0pt; margin-right: 0in; margin-top: 0; margin-bottom: 0">
+		<b>
+		<span style="font-size:10.0pt;font-family:
+&quot;Trebuchet MS&quot;;color:black">Bachelor of Technology (2023-2027)<br></span></b>
+		<span style="font-size:10.0pt;
+font-family:&quot;Trebuchet MS&quot;;color:black">Civil Engineering <br>Indian Institute of 
+		Technology, Bombay, INDIA</span></p></li>
+		<li>
+		<p class="MsoHeader" style="text-indent: -.25in; margin-left: 17.0pt; margin-right: 0in; margin-top: 0; margin-bottom: 0">
+		<b>
+		<span style="font-size:10.0pt;font-family:
+&quot;Trebuchet MS&quot;;color:black">Senior Secondary , 2022<br></span></b>
+		<span style="font-size:10.0pt;
+font-family:&quot;Trebuchet MS&quot;;color:black">PCM , CBSE<br>Central Hindu Boys Senior Secondary School , Varanasi, INDIA</span></p></li>
+		<li>
+		<p class="MsoHeader" style="text-indent: -.25in; margin-left: 17.0pt; margin-right: 0in; margin-top: 0; margin-bottom: 0">
+		<b>
+		<span style="font-size:10.0pt;font-family:
+&quot;Trebuchet MS&quot;;color:black">Bachelor of Engineering, 1979<br></span>
+		</b>
+		<span style="font-size:10.0pt;
+font-family:&quot;Trebuchet MS&quot;;color:black">Civil Engineering<br></span>
+		<span style="font-size:10.0pt;font-family:&quot;Trebuchet MS&quot;;color:black">University of Roorkee, Roorkee, India<br>(Now, Indian Institute of Technology Roorkee)<br>
+        </span>
+	<span style="font-size: 10.0pt; font-family: Trebuchet MS; color: black; "><b>First 
+	Rank in the University<br>
+        Recipient of 3 Gold 
+	Medals</b></span></p>
+		</li>
+	</ul>
+	</td>
+    </tr>
+  </tbody></table>
+      
+			</td>
+		</tr>
+		<tr>
+			<td width="98%" class="MsoHeader" valign="top" align="justify">
+&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="98%" class="MsoHeader" valign="top">
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="98%" class="MsoHeader" valign="top">
+			&nbsp;</td>
+		</tr>
+		<tr>
+			<td width="98%" class="MsoHeader" valign="top">
+			&nbsp;</td>
+		</tr>
+		</tbody></table>
+	<!--<p>&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;</p>
+	<p style="margin-top: 0; margin-bottom: 0">&nbsp;--></td>
+	</tr>
+  </tbody></table>
+ 
+  </body></html>">Education</a> |
+        <a href="work_experience.htm">Work Experience</a> |
+        <a href="honours_awards.htm">Awards & Honours</a> |
+        <a href="membership.htm">Professional Societies</a>
+    </div>
+
+    <div class="section-header">Research</div>
+    <div class="section-content">
+        <a href="research_interest.htm">Interests</a> |
+        <a href="research_projects.htm">Sponsored Research Projects</a> |
+        <a href="eq_studies.htm">Post-EQ Studies</a> |
+        <a href="laboratory.htm">Lab Development</a> |
+        <a href="publications.htm">Publications</a> |
+        <a href="thesisSupervion_phd.htm">PhD Theses</a> |
+        <a href="thesisSupervision_mtech.htm">MTech Theses</a>
+    </div>
+
+    <div class="section-header">Professional Contributions</div>
+    <div class="section-content">
+        <a href="code_development.htm">Code Development</a> |
+        <a href="consultancy.htm">Consulting</a> |
+        <a href="editorship.htm">Editorship</a> |
+        <a href="continuing_educ&Prog.htm">Continuing Education Programmes</a>
+    </div>
+
+    <div class="section-header">Administration</div>
+    <div class="section-content">
+        Director, <a href="https://iitgn.ac.in/about/director">Indian Institute of Technology Gandhinagar</a> (since June 2009)<br>
+        Dean, <a href="DRPG.htm">Resource Planning and Generation</a>, IIT Kanpur (Jan 2005 - Jan 2008)<br>
+        Head, <a href="https://www.iitk.ac.in/ce/" target="_blank">Department of Civil Engineering</a>, IIT Kanpur (Jan 2001 - Jan 2003)<br>
+        Coordinator, Continuing Education Programme, IIT Kanpur (Jan 1997 - Apr 2000)<br>
+        Coordinator, Quality Improvement Programme, IIT Kanpur (Jan 1997 - Apr 2000)<br>
+        Chairman, Student's Placement Committee, IIT Kanpur (Jan 1995 - Dec 1997)
+    </div>
+
+    <div class="section-header">Committees</div>
+    <div class="section-content">
+        <a href="international_committees.htm">International</a> |
+        <a href="national_committees.htm">National</a> |
+        <a href="other_committees.htm">Others</a>
+    </div>
+
+    <div class="section-header">Capacity Building Activities</div>
+    <div class="section-content">
+        <a href="NICEE.htm">National Information Center of Earthquake Engineering</a><br>
+        <a href="NPEEE.htm">National Programme on Earthquake Engineering Education</a><br>
+        <a href="Struct_Engrs_Forum.htm">Structural Engineers Forum of India</a><br>
+        <a href="summercamp.htm">Civil Engineering Summer Camp</a>
+    </div>
+
+    <div class="section-header">Documents</div>
+    <div class="section-content">
+        <a href="documents/Peer_Review_Report_2014_Committee_Members_Girish_Mehta_Indira_Rajaraman_Vijay_Thadani.pdf" target="_blank">IITGN Peer Review</a> |
+        <a href="iitgn_newsletter.htm">IITGN Newsletter</a> |
+        <a href="iitgn_annualreports.htm">IITGN Annual Reports</a><br>
+        <a href="documents/AR-Alumni-Relations-2019-20.pdf" target="_blank">IITGN Alumni Annual Report</a> |
+        <a href="syb.htm">Student Year Book</a><br>
+        <a href="fpreport.htm">Foundation Programme Report</a> |
+        <a href="others.php">Others</a>
+    </div>
+
+    <div class="section-header">Lectures & Talks</div>
+    <div class="section-content">
+        <a href="outreach_activities.html">Outreach Activities</a> |
+        <a href="videos.htm">Videos</a> |
+        <a href="audio.htm">Audio</a>
+    </div>
+
+    <div class="section-header">Articles</div>
+    <div class="section-content">
+        <a href="documents/articles/Ashutosh_Singla.pdf" target="_blank">Ashutosh Singla</a> |
+        <a href="documents/articles/Dhruv.pdf" target="_blank">Dhruv Bhanushali</a> |
+        <a href="documents/articles/article.pdf" target="_blank">Article</a>
+    </div>
+
+    <div class="section-header">
+        <a href="index-1.htm">Photo Gallery</a>
+    </div>
+
+    <div class="hit-counter">
+        <a href="https://www.hitwebcounter.com" target="_blank">
+            <img src="https://hitwebcounter.com/counter/counter.php?page=7882024&amp;style=0006&amp;nbdigits=9&amp;type=page&amp;initCount=0" title="Free Counter" alt="web counter" border="0">
+        </a>
+    </div>
+
+    <hr color="#ffcc66" noshade>
+
+    <div class="footer">
+        <
